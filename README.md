@@ -1,4 +1,13 @@
-ı had created to film website with html and css.You should see it.
+FEATURED PROJECT
+<br>
+ı had created to film website with html and css.
+<br>
+The website features both dark mode and light mode options.
+<br>
+A functional navbar was created at the top and on the left side of the website.
+<br>
+You should check and see it. &#128071;
+<br>
 
 
 
