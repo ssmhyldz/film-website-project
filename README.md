@@ -1,6 +1,6 @@
 FEATURED PROJECT
 <br>
-ı had created to film website with html and css.
+ı had created to film website with html,css and javascript.
 <br>
 The website features both dark mode and light mode options.
 <br>
